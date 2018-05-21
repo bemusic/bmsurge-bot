@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "icy": "^2.1.0",
+    "node-opus": "^0.3.0"
+  }
+}

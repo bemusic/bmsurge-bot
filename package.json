@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "discord.js": "^11.3.2",
+    "axios": "^0.19.0",
     "icy": "^2.1.0",
-    "node-opus": "^0.3.0"
+    "node-opus": "^0.3.0",
+    "cheerio": "^0.20.0"
   }
 }
